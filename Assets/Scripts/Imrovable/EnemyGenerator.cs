@@ -5,7 +5,7 @@ using UnityEngine;
 public class EnemyGenerator : MonoBehaviour
 {
     //TODO: Improve this code as much as possible
-    //Watch the videos about "Object Pooling", "Optimizing your Code" and "Using Events"
+    //Watch the videos about "Object Pooling", "Optimizing your Code" and "Using Events and delegates"
     //Tip: The enemy objects disable automatically when you shoot them
 
     public GameObject enemyPrefab;      //Enemy prefab to spawn
