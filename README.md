@@ -1,4 +1,4 @@
-# OptimizationClassProject
+# Optimization Class Project
 A project made in Unity for the Skillshare's Unity Optimization Class.
 
 Use the skills you've learnt during the class to optimize this project.
